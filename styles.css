@@ -1,3 +1,26 @@
 body {
     text-align : center;
 }
+
+.column {
+    float: left;
+
+}
+  
+.left {
+    width: 25%;
+}
+  
+.middle {
+    width: 50%;
+}
+  
+.right {
+    width: 25%;
+}
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
