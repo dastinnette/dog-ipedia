@@ -1,0 +1,20 @@
+{
+    "dogs": [
+      {
+        "id": 1,
+        "name": "Lab",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Labrador_on_Quantock_%282175262184%29.jpg/800px-Labrador_on_Quantock_%282175262184%29.jpg",
+        "fun fact": "Labs are great",
+        "care": "filler for labs",
+        "summary": "paragraph of info about labs"
+      },
+      {
+        "id": 2,
+        "name": "Shepherd",
+        "image": "https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd-on-White-00.jpg",
+        "fun fact": "Shepherds are great",
+        "care": "filler for shepherds",
+        "summary": "paragraph of info about shepherds"
+      }
+    ]
+  }
