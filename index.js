@@ -9,10 +9,11 @@ fetch(baseURL)
     })
 
 function renderDog(dogObj) {
-    const p = document.createElement('p')
-    p.innerText = dogObj.name
-    
-    gallery.append(p)
-    
+    // const p = document.createElement('p')
+    // p.innerText = dogObj.name
+    const img = document.createElement('img')
+    img.src = dogObj.image
+    img.alt = dogObj.name
+    gallery.append(img)
     console.log(dogObj)
 }
