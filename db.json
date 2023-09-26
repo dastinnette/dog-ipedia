@@ -4,7 +4,7 @@
         "id": 1,
         "name": "Lab",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Labrador_on_Quantock_%282175262184%29.jpg/800px-Labrador_on_Quantock_%282175262184%29.jpg",
-        "fun fact": "Labs are great",
+        "funFact": "Labs are great",
         "care": "filler for labs",
         "summary": "paragraph of info about labs"
       },
@@ -12,7 +12,7 @@
         "id": 2,
         "name": "Shepherd",
         "image": "https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd-on-White-00.jpg",
-        "fun fact": "Shepherds are great",
+        "funFact": "Shepherds are great",
         "care": "filler for shepherds",
         "summary": "paragraph of info about shepherds"
       },
@@ -20,7 +20,7 @@
         "id": 3,
         "name": "Pitbull",
         "image": "https://www.petsmont.com/cdn/shop/articles/American-Pitbull-Puppies-6.JPG_c4357295-9ee4-45f8-9718-e36c98022c46.jpg?v=1603063314",
-        "fun fact": "pitbulls are great",
+        "funFact": "pitbulls are great",
         "care": "care for pitbulls..",
         "summary": "paragraph of info about pitbulls.."
       },
@@ -28,7 +28,7 @@
         "id": 4,
         "name": "Golden Retriever",
         "image": "https://www.vidavetcare.com/wp-content/uploads/sites/234/2022/04/golden-retriever-dog-breed-info.jpeg",
-        "fun fact": "goldens are great",
+        "funFact": "goldens are great",
         "care": "care for goldens...",
         "summary": "paragraph of info about goldens.."
       },
@@ -36,7 +36,7 @@
         "id": 5,
         "name": "Caucasion Shepard",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Owczarek_kaukaski_65556.jpg/800px-Owczarek_kaukaski_65556.jpg",
-        "fun fact": "giant shepards are great..",
+        "funFact": "giant shepards are great..",
         "care": "care for bear shepards",
         "summary": "paragraph about bear fighting shepards"
       }
