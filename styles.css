@@ -18,6 +18,13 @@
     text-align : right;
     max-width : 30%;
 }
+#title {
+    text-align : center;
+    background-color : #6FC276;
+}
+#add-new-dog {
+    background-color : #F4C430;
+}
 
 
 
