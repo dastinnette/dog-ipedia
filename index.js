@@ -9,6 +9,7 @@ const showDogName = document.getElementById('dog-name')
 const showDogFunFact = document.getElementById('dog-funFact')
 const showDogCare = document.getElementById('dog-care')
 const showDogSummary = document.getElementById('dog-summary')
+const pressEnter = document.getElementById('press-enter')
 
 fetch(loadURL)
     .then(response => response.json())
@@ -65,3 +66,13 @@ newDog.addEventListener('submit', event => {
     console.log(addNewDog)
     renderDog(addNewDog)
 })
+
+newDog.style.display = "none"
+
+document.addEventListener("keypress", e => {
+    if (e.key === 'Enter') {
+        newDog.style.display = "block"
+        pressEnter.style.display = "none"
+    } 
+})
+
