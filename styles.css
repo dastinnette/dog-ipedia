@@ -16,6 +16,10 @@
     max-width : 35%;
 }
 
+.details-content {
+    text-align: left;
+}
+
 #submit {
     text-align : center;
     max-width : 35%;
