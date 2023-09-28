@@ -26,8 +26,10 @@ fetch(baseURL)
 function renderDog(dogObj) {
     const img = document.createElement('img')
     img.src = dogObj.image
-    img.alt = dogObj.name
-    gallery.append(img)
+    // img.alt = dogObj.name
+    const p = document.createElement('p')
+    p.innerText = dogObj.name
+    gallery.append(img, p)
     
     img.addEventListener('click', () => {
         showDogName.innerText = dogObj.name
@@ -64,12 +66,13 @@ newDog.addEventListener('submit', event => {
     }
 
     console.log(addNewDog)
-    renderDog(addNewDog)
+    renderDog(addNewDog)  
+    document.getElementById('add-new-dog').reset()
 })
 
 newDog.style.display = "none"
 
-document.addEventListener("keypress", e => {
+document.addEventListener("keydown", e => {
     if (e.key === 'Enter') {
         newDog.style.display = "block"
         pressEnter.style.display = "none"

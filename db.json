@@ -4,22 +4,22 @@
         "id": 1,
         "name": "Labrador Retriever",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Labrador_on_Quantock_%282175262184%29.jpg/800px-Labrador_on_Quantock_%282175262184%29.jpg",
-        "funFact": "The sweet and lovable Labrador Retriever is America's most popular dog breed",
-        "care": "Care tips for Labs: 1. Take your lab on longs multiple times a day if possible so that it gets exercise. 2. Labs love playing fetch so get dog toys toys that it can retrieve for you. Brush your lab weekly during the summer to remove loose hair from its coat.",
+        "funFact": "The sweet and lovable Labrador Retriever is America's most popular dog breed.",
+        "care": "Take your lab on longs multiple times a day if possible so that it gets exercise. Labs love playing fetch so get dog toys toys that it can retrieve for you. Brush your lab weekly during the summer to remove loose hair from its coat.",
         "summary": "The Labrador Retirver, or simply Labrador, is a British breed of retriever gun dog. It was developed in the United Kingdom from fishing dogs imported from the colony of Newfoundland, and was named after the Labrador region of that colony."
       },
       {
         "id": 2,
         "name": "German Shepherd",
-        "image": "https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd-on-White-00.jpg",
-        "funFact": "German Shepards are on of the most intelligent dog breeds on earth",
+        "image": "https://images.saymedia-content.com/.image/t_share/MTk2NzIzMTQ2NzMxMTAzMjUw/11-dogs-like-german-shepherd.png",
+        "funFact": "German Shepards are on of the most intelligent dog breeds on earth.",
         "care": "Socialization and consistent training will be essential when a German Shepherd is a puppy. This will help them to grow out of unruly behaviors such as nipping and jumping.",
         "summary": "The German Shepherd, also known in Britain as an Alsatian, is a German breed of working dog of medium to large size. The breed was developed by Max von Stephanitz using various traditional German herding dogs from 1899. It was originally bred as a herding dog, for herding sheep."
       },
       {
         "id": 3,
         "name": "Pitbull",
-        "image": "https://www.petsmont.com/cdn/shop/articles/American-Pitbull-Puppies-6.JPG_c4357295-9ee4-45f8-9718-e36c98022c46.jpg?v=1603063314",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.thesprucepets.com%2Fthmb%2FilvNlp8eCyb2WUl00GJl1zWSwUo%3D%2F3961x2641%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2Falert-pit-bull-puppy-in-grass-965528186-bdeba7444f3240c0bb3568e92fdfe91e.jpg&f=1&nofb=1&ipt=5e5f91c7f8bb37bcfb188504e284a80af3ce3e7ce4a03ebccb36f1a0e898ccf9&ipo=images",
         "funFact": "Both President Teddy Roosevelt and President Woodrow Wilson owned Pit Bull terriers.",
         "care": "A well-exercised Pit Bull is a happy pit bull. Pitbulls are high-energy dogs and require a daily dose of exercise and fun. Lack of exercise can lead to stress, anxiousness, and agitated mood. An hour of daily activity can help keep a Pitbull calm and rested.",
         "summary": "The American Pit Bull Terrier is a dog breed recognized by the United Kennel Club and the American Dog Breeders Association, but not the American Kennel Club. It is a medium-sized, short-haired dog, of a solid build, whose early ancestors came from England."
@@ -27,7 +27,7 @@
       {
         "id": 4,
         "name": "Golden Retriever",
-        "image": "https://www.vidavetcare.com/wp-content/uploads/sites/234/2022/04/golden-retriever-dog-breed-info.jpeg",
+        "image": "https://heronscrossing.vet/wp-content/uploads/Golden-Retriever.jpg",
         "funFact": "As intelligent, athletic dogs, Goldens are exceptional competitors in dog sports like Obedience, Agility, Diving, and more.",
         "care": "They require ample exercise—swimming in particular is a great outlet for their endless energy, and most Goldens love it! Their beautiful coats require brushing and in some climates a summer trim may be in order. ",
         "summary": "The Golden Retriever is a Scottish breed of retriever dog of medium size. It is characterised by a gentle and affectionate nature and a striking golden coat. It is commonly kept as a pet and is among the most frequently registered breeds in several Western countries."
@@ -35,10 +35,10 @@
       {
         "id": 5,
         "name": "Caucasion Shepard",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Owczarek_kaukaski_65556.jpg/800px-Owczarek_kaukaski_65556.jpg",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimagesvc.meredithcorp.io%2Fv3%2Fmm%2Fimage%3Furl%3Dhttps%3A%252F%252Fstatic.onecms.io%252Fwp-content%252Fuploads%252Fsites%252F47%252F2021%252F12%252F14%252Fcaucasian-shepherd-on-path-tongue-out-87040071-2000.jpg&f=1&nofb=1&ipt=24da8eb86030f532cc1c6b003f4466eb980dc14e45beb32c327c66a3ae964cfe&ipo=images",
         "funFact": " Caucasian Shepherd dogs were used for centuries to protect properties from trespassers, guard livestock from large and small predators such as wolves and coyotes, and for many other duties.",
         "care": "Caucasian shepherds don't need an excessive amount of exercise, but they do require early and consistent training and socialization. Their grooming is fairly straightforward but can be a time commitment due to their large size.",
-        "summary": "The Caucasian Shepherd Dog or Caucasian Ovcharka is a large livestock guardian dog native to the countries of the Caucasus region, notably Georgia, Armenia, Azerbaijan, and Dagestan. It was developed in the Soviet Union from about 1920 from dogs of the Caucasus Mountains and the steppe regions of Southern Russia."
+        "summary": "The Caucasian Shepherd Dog or Caucasian Ovcharka is a large livestock guardian dog native to the countries of the Caucasus region, notably Georgia, Armenia, Azerbaijan, and Dagestan. It was developed in the Soviet Union around 1920 from dogs of the Caucasus Mountains."
       }
     ]
   }

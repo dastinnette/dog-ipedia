@@ -6,37 +6,52 @@
     </head>
     <body>
         <h1 id="title">Dog-ipedia</h1>
+        <br>
         <div id="dog-container">
-            <div class="dog-gallery img" id="dog-gallery" style= "height: 700px; overflow-y: scroll;">
-                <p>dog gallery</p>
-
+            <div class="dog-gallery img" id="dog-gallery" style= "height: 825px; overflow-y: scroll;">
             </div>
             <div class="dog-details" id="dog-details">
-                <p>dog details</p>
                 <img id="dog-image"></img>
                 <h3 id="dog-name"></h3>
-                <div id="dog-funFact"></div>
-                <div id="dog-care"></div>
-                <div id="dog-summary"></div>
+                <div class="details-content">
+                    <h4>Fun Fact:</h4>
+                    <div id="dog-funFact"></div>
+                    <h4>Care tips:</h4>
+                    <div id="dog-care"></div>
+                    <h4>Breed summary:</h4>
+                    <div id="dog-summary"></div>
+                </div>
             </div>
-            <p id="press-enter">Press enter to add a dog to dog-ipedia!</p>
+            <p id="press-enter">
+            <br>
+            <br>
+            <br>
+            <br>
+                Press enter to add a dog to dog-ipedia!
+            </p>
             <div class="new-dog" id="submit">
                 <form id="add-new-dog">
                     <h3>Add new dog</h3>
                     <label for="name">Name: </label>
+                    <br>
                     <input type="text" name="name" id="new-name" />
                     <br>
                     <label for="image">Image: </label>
+                    <br>
                     <input type="text" name="image" id="new-image" />
                     <br>
                     <label for="funFact">Fun fact: </label>
+                    <br>
                     <input type="text" name="funFact" id="new-fun-fact" />
                     <br>
                     <label for="care">Care: </label>
+                    <br>
                     <input type="text" name="care" id="new-care" />
                     <br>
                     <label for="summary">Summary: </label>
+                    <br>
                     <input type="text" name="summary" id="new-summary" />
+                    <br>
                     <br>
                     <input type="submit" name="submit" value="Add dog" />
                 </form>
