@@ -6,24 +6,24 @@
 #dog-gallery {
     display : flex;
     flex-direction: column;
-    max-width : 20%;
+    max-width : 15%;
 }
+
 #dog-details {
     display: flex;
     text-align : center;
     flex-direction: column;
     max-width : 35%;
 }
+
 #submit {
-    text-align : right;
-    max-width : 30%;
+    text-align : center;
+    max-width : 35%;
 }
+
 #title {
     text-align : center;
     background-color : #6FC276;
-}
-#add-new-dog {
-    background-color : #F4C430;
 }
 
 
